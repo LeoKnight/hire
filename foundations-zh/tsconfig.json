@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
-    "strict": true,
+    // "baseUrl": ".",
+    // "strict": true,
     "moduleResolution": "node",
-    "target": "esnext",
-    "module": "esnext",
+    "module": "commonjs",
     "noUnusedLocals": true,
     "noUnusedParameters": true,
     "importHelpers": true,
